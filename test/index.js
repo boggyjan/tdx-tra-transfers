@@ -1,7 +1,7 @@
 import getTransfersByTraStationId from '../src/index.js'
 
 /*
-該工具是用以TDX上的台鐵車站ID搜尋轉乘車站用
+該工具是用於以TDX上的台鐵車站ID查詢轉乘車站用
 使用方式如下：
 import getTransfersByTraStationId from '../src/index.js'
 const transfers = getTransfersByTraStationId('1000')) // 1000 為台北站
