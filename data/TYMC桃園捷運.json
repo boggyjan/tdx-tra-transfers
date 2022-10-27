@@ -1,0 +1,199 @@
+[
+  {
+    "LineNo": "A",
+    "LineID": "A",
+    "Stations": [
+      {
+        "Sequence": 1,
+        "StationID": "A1",
+        "StationName": {
+          "Zh_tw": "台北車站",
+          "En": "Taipei Main Station"
+        }
+      },
+      {
+        "Sequence": 2,
+        "StationID": "A2",
+        "StationName": {
+          "Zh_tw": "三重站",
+          "En": "Sanchong Station"
+        },
+        "CumulativeDistance": 4.236
+      },
+      {
+        "Sequence": 3,
+        "StationID": "A3",
+        "StationName": {
+          "Zh_tw": "新北產業園區站",
+          "En": "New Taipei Industrial Park Station"
+        },
+        "CumulativeDistance": 7.729
+      },
+      {
+        "Sequence": 4,
+        "StationID": "A4",
+        "StationName": {
+          "Zh_tw": "新莊副都心站",
+          "En": "Xinzhuang Fuduxin Station"
+        },
+        "CumulativeDistance": 9.098
+      },
+      {
+        "Sequence": 5,
+        "StationID": "A5",
+        "StationName": {
+          "Zh_tw": "泰山站",
+          "En": "Taishan Station"
+        },
+        "CumulativeDistance": 10.029
+      },
+      {
+        "Sequence": 6,
+        "StationID": "A6",
+        "StationName": {
+          "Zh_tw": "泰山貴和站",
+          "En": "Taishan Guihe Station"
+        },
+        "CumulativeDistance": 12.833
+      },
+      {
+        "Sequence": 7,
+        "StationID": "A7",
+        "StationName": {
+          "Zh_tw": "體育大學站",
+          "En": "National Taiwan Sport University Station"
+        },
+        "CumulativeDistance": 17.403
+      },
+      {
+        "Sequence": 8,
+        "StationID": "A8",
+        "StationName": {
+          "Zh_tw": "長庚醫院站",
+          "En": "Chang Gung Memorial Hospital Station"
+        },
+        "CumulativeDistance": 20.145
+      },
+      {
+        "Sequence": 9,
+        "StationID": "A9",
+        "StationName": {
+          "Zh_tw": "林口站",
+          "En": "Linkou Station"
+        },
+        "CumulativeDistance": 21.35
+      },
+      {
+        "Sequence": 10,
+        "StationID": "A10",
+        "StationName": {
+          "Zh_tw": "山鼻站",
+          "En": "Shanbi Station"
+        },
+        "CumulativeDistance": 29.745
+      },
+      {
+        "Sequence": 11,
+        "StationID": "A11",
+        "StationName": {
+          "Zh_tw": "坑口站",
+          "En": "Kengkou Station"
+        },
+        "CumulativeDistance": 31.721
+      },
+      {
+        "Sequence": 12,
+        "StationID": "A12",
+        "StationName": {
+          "Zh_tw": "機場第一航廈站",
+          "En": "Airport Terminal 1 Station"
+        },
+        "CumulativeDistance": 34.876
+      },
+      {
+        "Sequence": 13,
+        "StationID": "A13",
+        "StationName": {
+          "Zh_tw": "機場第二航廈站",
+          "En": "Airport Terminal 2 Station"
+        },
+        "CumulativeDistance": 35.896
+      },
+      {
+        "Sequence": 14,
+        "StationID": "A14a",
+        "StationName": {
+          "Zh_tw": "機場旅館站",
+          "En": "Airport Hotel Station"
+        },
+        "CumulativeDistance": 37.232
+      },
+      {
+        "Sequence": 15,
+        "StationID": "A15",
+        "StationName": {
+          "Zh_tw": "大園站",
+          "En": "Dayuan Station"
+        },
+        "CumulativeDistance": 39.13
+      },
+      {
+        "Sequence": 16,
+        "StationID": "A16",
+        "StationName": {
+          "Zh_tw": "橫山站",
+          "En": "Hengshan Station"
+        },
+        "CumulativeDistance": 41.38
+      },
+      {
+        "Sequence": 17,
+        "StationID": "A17",
+        "StationName": {
+          "Zh_tw": "領航站",
+          "En": "Linghang Station"
+        },
+        "CumulativeDistance": 42.96
+      },
+      {
+        "Sequence": 18,
+        "StationID": "A18",
+        "StationName": {
+          "Zh_tw": "高鐵桃園站",
+          "En": "Taoyuan HSR Station"
+        },
+        "CumulativeDistance": 44.57
+      },
+      {
+        "Sequence": 19,
+        "StationID": "A19",
+        "StationName": {
+          "Zh_tw": "桃園體育園區站",
+          "En": "Taoyuan Sports Park Station"
+        },
+        "CumulativeDistance": 46.31
+      },
+      {
+        "Sequence": 20,
+        "StationID": "A20",
+        "StationName": {
+          "Zh_tw": "興南站",
+          "En": "Xingnan Station"
+        },
+        "CumulativeDistance": 49.27
+      },
+      {
+        "Sequence": 21,
+        "StationID": "A21",
+        "StationName": {
+          "Zh_tw": "環北站",
+          "En": "Huanbei Station"
+        },
+        "CumulativeDistance": 50.81
+      }
+    ],
+    "SrcUpdateTime": "2017-02-15T12:06:46+08:00",
+    "UpdateTime": "2017-03-20T10:26:55+08:00",
+    "VersionID": 1
+  }
+]

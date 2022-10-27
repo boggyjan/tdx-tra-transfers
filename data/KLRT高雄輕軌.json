@@ -1,0 +1,258 @@
+[
+  {
+    "LineID": "C",
+    "Stations": [
+      {
+        "Sequence": 1,
+        "StationID": "C1",
+        "StationName": {
+          "Zh_tw": "籬仔內",
+          "En": "Lizihnei"
+        }
+      },
+      {
+        "Sequence": 2,
+        "StationID": "C2",
+        "StationName": {
+          "Zh_tw": "凱旋瑞田",
+          "En": "Kaisyuan Rueitian"
+        }
+      },
+      {
+        "Sequence": 3,
+        "StationID": "C3",
+        "StationName": {
+          "Zh_tw": "前鎮之星",
+          "En": "Cianjhen Star"
+        }
+      },
+      {
+        "Sequence": 4,
+        "StationID": "C4",
+        "StationName": {
+          "Zh_tw": "凱旋中華",
+          "En": "Kaisyuan Jhonghua"
+        }
+      },
+      {
+        "Sequence": 5,
+        "StationID": "C5",
+        "StationName": {
+          "Zh_tw": "夢時代",
+          "En": "Dream Mall"
+        }
+      },
+      {
+        "Sequence": 6,
+        "StationID": "C6",
+        "StationName": {
+          "Zh_tw": "經貿園區",
+          "En": "Commerce and Trade Park"
+        }
+      },
+      {
+        "Sequence": 7,
+        "StationID": "C7",
+        "StationName": {
+          "Zh_tw": "軟體園區",
+          "En": "Software Technology Park"
+        }
+      },
+      {
+        "Sequence": 8,
+        "StationID": "C8",
+        "StationName": {
+          "Zh_tw": "高雄展覽館",
+          "En": "Kaohsiung Exhibition Center"
+        }
+      },
+      {
+        "Sequence": 9,
+        "StationID": "C9",
+        "StationName": {
+          "Zh_tw": "旅運中心",
+          "En": "Cruise Terminal"
+        }
+      },
+      {
+        "Sequence": 10,
+        "StationID": "C10",
+        "StationName": {
+          "Zh_tw": "光榮碼頭",
+          "En": "Glory Pier"
+        }
+      },
+      {
+        "Sequence": 11,
+        "StationID": "C11",
+        "StationName": {
+          "Zh_tw": "真愛碼頭",
+          "En": "Love Pier"
+        }
+      },
+      {
+        "Sequence": 12,
+        "StationID": "C12",
+        "StationName": {
+          "Zh_tw": "駁二大義",
+          "En": "Dayi Pier-2"
+        }
+      },
+      {
+        "Sequence": 13,
+        "StationID": "C13",
+        "StationName": {
+          "Zh_tw": "駁二蓬萊",
+          "En": "Penglai Pier-2"
+        }
+      },
+      {
+        "Sequence": 14,
+        "StationID": "C14",
+        "StationName": {
+          "Zh_tw": "哈瑪星",
+          "En": "Hamasen"
+        }
+      },
+      {
+        "Sequence": 15,
+        "StationID": "C15",
+        "StationName": {
+          "Zh_tw": "壽山公園站",
+          "En": "Shoushan Park"
+        }
+      },
+      {
+        "Sequence": 16,
+        "StationID": "C16",
+        "StationName": {
+          "Zh_tw": "文武聖殿站",
+          "En": "Wenwu Temple"
+        }
+      },
+      {
+        "Sequence": 17,
+        "StationID": "C17",
+        "StationName": {
+          "Zh_tw": "鼓山區公所站",
+          "En": "Gushan District Office"
+        }
+      },
+      {
+        "Sequence": 18,
+        "StationID": "C18",
+        "StationName": {
+          "Zh_tw": "鼓山",
+          "En": "Gushan"
+        }
+      },
+      {
+        "Sequence": 19,
+        "StationID": "C19",
+        "StationName": {
+          "Zh_tw": "馬卡道",
+          "En": "Makadao"
+        }
+      },
+      {
+        "Sequence": 20,
+        "StationID": "C20",
+        "StationName": {
+          "Zh_tw": "臺鐵美術館",
+          "En": "TRA Museum of Fine Arts"
+        }
+      },
+      {
+        "Sequence": 21,
+        "StationID": "C21A",
+        "StationName": {
+          "Zh_tw": "內惟藝術中心",
+          "En": "Neiwei Arts Center"
+        }
+      },
+      {
+        "Sequence": 22,
+        "StationID": "C21",
+        "StationName": {
+          "Zh_tw": "美術館",
+          "En": "Kaohsiung Museum of Fine Arts"
+        }
+      },
+      {
+        "Sequence": 23,
+        "StationID": "C22",
+        "StationName": {
+          "Zh_tw": "聯合醫院",
+          "En": "Kaohsiung Municipal United Hospital"
+        }
+      },
+      {
+        "Sequence": 24,
+        "StationID": "C23",
+        "StationName": {
+          "Zh_tw": "龍華國小",
+          "En": "Longhua Elementary School"
+        }
+      },
+      {
+        "Sequence": 25,
+        "StationID": "C24",
+        "StationName": {
+          "Zh_tw": "愛河之心",
+          "En": "Heart of Love River"
+        }
+      },
+      {
+        "Sequence": 32,
+        "StationID": "C32",
+        "StationName": {
+          "Zh_tw": "凱旋公園站",
+          "En": "Kaisyuan Park"
+        }
+      },
+      {
+        "Sequence": 33,
+        "StationID": "C33",
+        "StationName": {
+          "Zh_tw": "衛生局站",
+          "En": "Department of Health"
+        }
+      },
+      {
+        "Sequence": 34,
+        "StationID": "C34",
+        "StationName": {
+          "Zh_tw": "五權國小站",
+          "En": "Wucyuan Elementary School"
+        }
+      },
+      {
+        "Sequence": 35,
+        "StationID": "C35",
+        "StationName": {
+          "Zh_tw": "凱旋武昌站",
+          "En": "Kaisyuan Wuchang"
+        }
+      },
+      {
+        "Sequence": 36,
+        "StationID": "C36",
+        "StationName": {
+          "Zh_tw": "凱旋二聖站",
+          "En": "Kaisyuan Ersheng"
+        }
+      },
+      {
+        "Sequence": 37,
+        "StationID": "C37",
+        "StationName": {
+          "Zh_tw": "輕軌機廠站",
+          "En": "LRT Depot"
+        }
+      }
+    ],
+    "SrcUpdateTime": "2022-09-30T00:00:00+08:00",
+    "UpdateTime": "2022-10-11T00:00:00+08:00",
+    "VersionID": 4
+  }
+]

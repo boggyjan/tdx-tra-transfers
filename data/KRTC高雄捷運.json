@@ -1,0 +1,324 @@
+[
+  {
+    "LineNo": "O",
+    "LineID": "O",
+    "Stations": [
+      {
+        "Sequence": 1,
+        "StationID": "O1",
+        "StationName": {
+          "Zh_tw": "西子灣",
+          "En": "Sizihwan"
+        }
+      },
+      {
+        "Sequence": 2,
+        "StationID": "O2",
+        "StationName": {
+          "Zh_tw": "鹽埕埔",
+          "En": "Yanchengpu"
+        }
+      },
+      {
+        "Sequence": 3,
+        "StationID": "O4",
+        "StationName": {
+          "Zh_tw": "市議會",
+          "En": "City Council"
+        }
+      },
+      {
+        "Sequence": 4,
+        "StationID": "O5",
+        "StationName": {
+          "Zh_tw": "美麗島",
+          "En": "Formosa Boulevard"
+        }
+      },
+      {
+        "Sequence": 5,
+        "StationID": "O6",
+        "StationName": {
+          "Zh_tw": "信義國小",
+          "En": "Sinyi Elementary School"
+        }
+      },
+      {
+        "Sequence": 6,
+        "StationID": "O7",
+        "StationName": {
+          "Zh_tw": "文化中心",
+          "En": "Cultural Center"
+        }
+      },
+      {
+        "Sequence": 7,
+        "StationID": "O8",
+        "StationName": {
+          "Zh_tw": "五塊厝",
+          "En": "Wukuaicuo"
+        }
+      },
+      {
+        "Sequence": 8,
+        "StationID": "O9",
+        "StationName": {
+          "Zh_tw": "技擊館",
+          "En": "Martial Arts Stadium"
+        }
+      },
+      {
+        "Sequence": 9,
+        "StationID": "O10",
+        "StationName": {
+          "Zh_tw": "衛武營",
+          "En": "Weiwuying"
+        }
+      },
+      {
+        "Sequence": 10,
+        "StationID": "O11",
+        "StationName": {
+          "Zh_tw": "鳳山西站",
+          "En": "Fongshan West"
+        }
+      },
+      {
+        "Sequence": 11,
+        "StationID": "O12",
+        "StationName": {
+          "Zh_tw": "鳳山",
+          "En": "Fongshan"
+        }
+      },
+      {
+        "Sequence": 12,
+        "StationID": "O13",
+        "StationName": {
+          "Zh_tw": "大東",
+          "En": "Dadong"
+        }
+      },
+      {
+        "Sequence": 13,
+        "StationID": "O14",
+        "StationName": {
+          "Zh_tw": "鳳山國中",
+          "En": "Fongshan Junior High School"
+        }
+      },
+      {
+        "Sequence": 14,
+        "StationID": "OT1",
+        "StationName": {
+          "Zh_tw": "大寮",
+          "En": "Daliao"
+        }
+      }
+    ],
+    "SrcUpdateTime": "2017-05-26T00:00:00+08:00",
+    "UpdateTime": "2021-11-30T10:32:23+08:00",
+    "VersionID": 4
+  },
+  {
+    "LineNo": "R",
+    "LineID": "R",
+    "Stations": [
+      {
+        "Sequence": 1,
+        "StationID": "R3",
+        "StationName": {
+          "Zh_tw": "小港",
+          "En": "Siaogang"
+        }
+      },
+      {
+        "Sequence": 2,
+        "StationID": "R4",
+        "StationName": {
+          "Zh_tw": "高雄國際機場",
+          "En": "Kaohsiung International Airport"
+        }
+      },
+      {
+        "Sequence": 3,
+        "StationID": "R4A",
+        "StationName": {
+          "Zh_tw": "草衙",
+          "En": "Caoya"
+        }
+      },
+      {
+        "Sequence": 4,
+        "StationID": "R5",
+        "StationName": {
+          "Zh_tw": "前鎮高中",
+          "En": "Cianjhen Senior High School"
+        }
+      },
+      {
+        "Sequence": 5,
+        "StationID": "R6",
+        "StationName": {
+          "Zh_tw": "凱旋",
+          "En": "Kaisyuan"
+        }
+      },
+      {
+        "Sequence": 6,
+        "StationID": "R7",
+        "StationName": {
+          "Zh_tw": "獅甲",
+          "En": "Shihjia"
+        }
+      },
+      {
+        "Sequence": 7,
+        "StationID": "R8",
+        "StationName": {
+          "Zh_tw": "三多商圈",
+          "En": "Sanduo Shopping District"
+        }
+      },
+      {
+        "Sequence": 8,
+        "StationID": "R9",
+        "StationName": {
+          "Zh_tw": "中央公園",
+          "En": "Central Park"
+        }
+      },
+      {
+        "Sequence": 9,
+        "StationID": "R10",
+        "StationName": {
+          "Zh_tw": "美麗島",
+          "En": "Formosa Boulevard"
+        }
+      },
+      {
+        "Sequence": 10,
+        "StationID": "R11",
+        "StationName": {
+          "Zh_tw": "高雄車站",
+          "En": "Kaohsiung Main Station"
+        }
+      },
+      {
+        "Sequence": 11,
+        "StationID": "R12",
+        "StationName": {
+          "Zh_tw": "後驛",
+          "En": "Houyi"
+        }
+      },
+      {
+        "Sequence": 12,
+        "StationID": "R13",
+        "StationName": {
+          "Zh_tw": "凹子底",
+          "En": "Aozihdi"
+        }
+      },
+      {
+        "Sequence": 13,
+        "StationID": "R14",
+        "StationName": {
+          "Zh_tw": "巨蛋",
+          "En": "Kaohsiung Arena"
+        }
+      },
+      {
+        "Sequence": 14,
+        "StationID": "R15",
+        "StationName": {
+          "Zh_tw": "生態園區",
+          "En": "Ecological District"
+        }
+      },
+      {
+        "Sequence": 15,
+        "StationID": "R16",
+        "StationName": {
+          "Zh_tw": "左營",
+          "En": "Zuoying"
+        }
+      },
+      {
+        "Sequence": 16,
+        "StationID": "R17",
+        "StationName": {
+          "Zh_tw": "世運",
+          "En": "World Game"
+        }
+      },
+      {
+        "Sequence": 17,
+        "StationID": "R18",
+        "StationName": {
+          "Zh_tw": "油廠國小",
+          "En": "Oil Refinery Elementary School"
+        }
+      },
+      {
+        "Sequence": 18,
+        "StationID": "R19",
+        "StationName": {
+          "Zh_tw": "楠梓加工區",
+          "En": "Nanzih Export Processing Zone"
+        }
+      },
+      {
+        "Sequence": 19,
+        "StationID": "R20",
+        "StationName": {
+          "Zh_tw": "後勁",
+          "En": "Houjing"
+        }
+      },
+      {
+        "Sequence": 20,
+        "StationID": "R21",
+        "StationName": {
+          "Zh_tw": "都會公園",
+          "En": "Metropolitan Park"
+        }
+      },
+      {
+        "Sequence": 21,
+        "StationID": "R22",
+        "StationName": {
+          "Zh_tw": "青埔",
+          "En": "Cingpu"
+        }
+      },
+      {
+        "Sequence": 22,
+        "StationID": "R22A",
+        "StationName": {
+          "Zh_tw": "橋頭糖廠",
+          "En": "Ciaotou Sugar Refinery"
+        }
+      },
+      {
+        "Sequence": 23,
+        "StationID": "R23",
+        "StationName": {
+          "Zh_tw": "橋頭火車站",
+          "En": "Ciaotou Station"
+        }
+      },
+      {
+        "Sequence": 24,
+        "StationID": "R24",
+        "StationName": {
+          "Zh_tw": "南岡山",
+          "En": "Gangshan South"
+        }
+      }
+    ],
+    "SrcUpdateTime": "2017-05-26T00:00:00+08:00",
+    "UpdateTime": "2021-11-30T10:32:23+08:00",
+    "VersionID": 4
+  }
+]

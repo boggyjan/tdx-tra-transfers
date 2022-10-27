@@ -1,0 +1,123 @@
+[
+  {
+    "LineNo": "V",
+    "LineID": "V",
+    "Stations": [
+      {
+        "Sequence": 1,
+        "StationID": "V01",
+        "StationName": {
+          "Zh_tw": "紅樹林",
+          "En": "Hongshulin"
+        }
+      },
+      {
+        "Sequence": 2,
+        "StationID": "V02",
+        "StationName": {
+          "Zh_tw": "竿蓁林",
+          "En": "Ganzhenlin"
+        }
+      },
+      {
+        "Sequence": 3,
+        "StationID": "V03",
+        "StationName": {
+          "Zh_tw": "淡金鄧公",
+          "En": "Danjin Denggong"
+        }
+      },
+      {
+        "Sequence": 4,
+        "StationID": "V04",
+        "StationName": {
+          "Zh_tw": "淡江大學",
+          "En": "Tamkang University"
+        }
+      },
+      {
+        "Sequence": 5,
+        "StationID": "V05",
+        "StationName": {
+          "Zh_tw": "淡金北新",
+          "En": "Danjin Beixin"
+        }
+      },
+      {
+        "Sequence": 6,
+        "StationID": "V06",
+        "StationName": {
+          "Zh_tw": "新市一路",
+          "En": "Xinshi 1st Rd."
+        }
+      },
+      {
+        "Sequence": 7,
+        "StationID": "V07",
+        "StationName": {
+          "Zh_tw": "淡水行政中心",
+          "En": "Tamsui District Office"
+        }
+      },
+      {
+        "Sequence": 8,
+        "StationID": "V08",
+        "StationName": {
+          "Zh_tw": "濱海義山",
+          "En": "Binhai Yishan"
+        }
+      },
+      {
+        "Sequence": 9,
+        "StationID": "V09",
+        "StationName": {
+          "Zh_tw": "濱海沙崙",
+          "En": "Binhai Shalun"
+        }
+      },
+      {
+        "Sequence": 10,
+        "StationID": "V10",
+        "StationName": {
+          "Zh_tw": "淡海新市鎮",
+          "En": "Danhai New Town"
+        }
+      },
+      {
+        "Sequence": 11,
+        "StationID": "V11",
+        "StationName": {
+          "Zh_tw": "崁頂",
+          "En": "Kanding"
+        }
+      },
+      {
+        "Sequence": 12,
+        "StationID": "V26",
+        "StationName": {
+          "Zh_tw": "淡水漁人碼頭",
+          "En": "Tamsui Fisherman's Wharf"
+        }
+      },
+      {
+        "Sequence": 13,
+        "StationID": "V27",
+        "StationName": {
+          "Zh_tw": "沙崙",
+          "En": "Shalun"
+        }
+      },
+      {
+        "Sequence": 14,
+        "StationID": "V28",
+        "StationName": {
+          "Zh_tw": "台北海洋大學",
+          "En": "Taipei University of Marine Technology"
+        }
+      }
+    ],
+    "SrcUpdateTime": "2020-12-30T00:00:00+08:00",
+    "UpdateTime": "2021-01-18T07:20:06+08:00",
+    "VersionID": 2
+  }
+]
