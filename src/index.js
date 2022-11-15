@@ -1,4 +1,4 @@
-import transferStations from './tra_transfer_stations.js'
+import transferStations from './traTransferStations.js'
 
 function getTransfersByTraStationId (id) {
   return transferStations

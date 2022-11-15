@@ -20,10 +20,11 @@ const transfers = getTransfersByTraStationId('1000')) // 1000 為台北站
 ]
 ```
 
-Service 欄位代表轉乘車站是什麼服務，服務類型如下：
-THSR:台灣高鐵,TRTC:臺北捷運,KRTC:高雄捷運,TYMC:桃園捷運,TMRT:臺中捷運,KLRT:高雄輕軌,NTDLRT:淡海輕軌,TRTCMG:貓空纜車
-StationID 欄位為車站ID
-StationName 欄位為站名
+- Service 欄位代表轉乘車站是什麼服務，服務類型如下：
+- THSR:台灣高鐵,TRTC:臺北捷運,KRTC:高雄捷運,TYMC:桃園捷運,TMRT:臺中捷運,KLRT:高雄輕軌,NTDLRT:淡海輕軌,TRTCMG:貓空纜車
+- StationID 欄位為車站ID
+- StationName 欄位為站名
+- MrtStationName 欄位為北捷的列車位置API中所使用的站名，因為北捷該API沒有StationID，因此只能以站名做Mapping（北捷API 目前需透過紙本申請）
 
 ## 範例
 clone該專案後執行
