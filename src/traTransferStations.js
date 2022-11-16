@@ -23,7 +23,7 @@ export default [
         "Zh_tw": "南港",
         "En": "Nangang"
       },
-      "MrtStationName": "南港站"
+      "TrtcStationName": "南港站"
     }
   ],
   [
@@ -42,7 +42,7 @@ export default [
         "Zh_tw": "松山",
         "En": "Songshan"
       },
-      "MrtStationName": "松山站"
+      "TrtcStationName": "松山站"
     }
   ],
   [
@@ -77,7 +77,7 @@ export default [
         "Zh_tw": "台北車站",
         "En": "Taipei Main Station"
       },
-      "MrtStationName": "台北車站"
+      "TrtcStationName": "台北車站"
     },
     {
       "Service": "TRTC",
@@ -86,7 +86,7 @@ export default [
         "Zh_tw": "台北車站",
         "En": "Taipei Main Station"
       },
-      "MrtStationName": "台北車站"
+      "TrtcStationName": "台北車站"
     },
     {
       "Service": "TRTC",
@@ -95,7 +95,7 @@ export default [
         "Zh_tw": "北門",
         "En": "Beimen"
       },
-      "MrtStationName": "北門站"
+      "TrtcStationName": "北門站"
     },
     {
       "Service": "TYMC",
@@ -130,7 +130,7 @@ export default [
         "Zh_tw": "板橋",
         "En": "Banqiao"
       },
-      "MrtStationName": "板橋站"
+      "TrtcStationName": "板橋站"
     },
     {
       "Service": "TRTC",
@@ -139,7 +139,7 @@ export default [
         "Zh_tw": "板橋",
         "En": "Banqiao"
       },
-      "MrtStationName": "板橋站"
+      "TrtcStationName": "板橋站"
     }
   ],
   [
