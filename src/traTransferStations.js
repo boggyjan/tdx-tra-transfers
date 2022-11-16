@@ -23,7 +23,10 @@ export default [
         "Zh_tw": "南港",
         "En": "Nangang"
       },
-      "TrtcStationName": "南港站"
+      "TrtcStationName": {
+        "Zh_tw": "南港站",
+        "En": "Nangang"
+      }
     }
   ],
   [
@@ -42,7 +45,10 @@ export default [
         "Zh_tw": "松山",
         "En": "Songshan"
       },
-      "TrtcStationName": "松山站"
+      "TrtcStationName": {
+        "Zh_tw": "松山站",
+        "En": "Songshan"
+      }
     }
   ],
   [
@@ -77,7 +83,10 @@ export default [
         "Zh_tw": "台北車站",
         "En": "Taipei Main Station"
       },
-      "TrtcStationName": "台北車站"
+      "TrtcStationName": {
+        "Zh_tw": "台北車站",
+        "En": "Taipei Main Station"
+      }
     },
     {
       "Service": "TRTC",
@@ -95,7 +104,10 @@ export default [
         "Zh_tw": "北門",
         "En": "Beimen"
       },
-      "TrtcStationName": "北門站"
+      "TrtcStationName": {
+        "Zh_tw": "北門站",
+        "En": "Beimen"
+      }
     },
     {
       "Service": "TYMC",
@@ -130,7 +142,10 @@ export default [
         "Zh_tw": "板橋",
         "En": "Banqiao"
       },
-      "TrtcStationName": "板橋站"
+      "TrtcStationName": {
+        "Zh_tw": "板橋站",
+        "En": "Banqiao"
+      }
     },
     {
       "Service": "TRTC",
@@ -139,7 +154,10 @@ export default [
         "Zh_tw": "板橋",
         "En": "Banqiao"
       },
-      "TrtcStationName": "板橋站"
+      "TrtcStationName": {
+        "Zh_tw": "板橋站",
+        "En": "Banqiao"
+      }
     }
   ],
   [
